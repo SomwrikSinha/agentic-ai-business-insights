@@ -25,13 +25,13 @@ The system automatically:
 
 🧠 Key Features
 
-- 🔹 Natural Language Query Processing
-- 🔹 Automated SQL Query Generation
-- 🔹 Relevance Classification (LLM-based filtering)
-- 🔹 Real-time Data Retrieval from MySQL
-- 🔹 Insight Generation using AI models
-- 🔹 Workflow Automation using n8n
-- 🔹 Clean & Structured Business Outputs
+-  Natural Language Query Processing
+-  Automated SQL Query Generation
+-  Relevance Classification (LLM-based filtering)
+-  Real-time Data Retrieval from MySQL
+-  Insight Generation using AI models
+-  Workflow Automation using n8n
+-  Clean & Structured Business Outputs
 
 ---
 
@@ -95,11 +95,11 @@ Final Output
 
 📊 Sample Use Cases
 
-- 📈 Best-performing product
-- 📉 Worst-performing product
-- 💰 Revenue & profit analysis
-- 📦 Category-wise performance
-- 📅 Monthly trend analysis
+  📈 Best-performing product
+  📉 Worst-performing product
+  💰 Revenue & profit analysis
+  📦 Category-wise performance
+  📅 Monthly trend analysis
 
 ---
 
@@ -132,21 +132,21 @@ Other high-performing products:
 
 🚧 Limitations
 
-- ❌ Difficulty handling ambiguous queries
-- ❌ Inconsistency in AI-generated responses
-- ❌ Dependence on prompt design
-- ❌ Limited predictive analytics capabilities
+  ❌ Difficulty handling ambiguous queries
+  ❌ Inconsistency in AI-generated responses
+  ❌ Dependence on prompt design
+  ❌ Limited predictive analytics capabilities
 
 ---
 
 🔮 Future Enhancements
 
-- ✅ ChatGPT-like conversational output formatting
-- ✅ Improved prompt engineering for consistency
-- ✅ Predictive analytics integration
-- ✅ Real-time data pipelines
-- ✅ Dashboard & UI integration
-- ✅ Multi-database support
+-  ChatGPT-like conversational output formatting
+-  Improved prompt engineering for consistency
+-  Predictive analytics integration
+-  Real-time data pipelines
+-  Dashboard & UI integration
+-  Multi-database support
 
 ---
 
@@ -173,7 +173,7 @@ Other high-performing products:
 
 ---
 
-👥 Team
+👥 Team (Mentor - Mr. Santanu Karmakar)
 
 - Somwrik Sinha
 - Subhranil Das
